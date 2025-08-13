@@ -14,3 +14,6 @@
 - Learned how to calculate simple metrics like Net Profit Margin
 - Explored input prompts, basic math operations, and printing formatted outputs
 - Pushed the Day 1 notebook to GitHub to track progress
+
+### About this repository
+Finance, Artificial Intelligence, WEB3, Technology
